@@ -1,0 +1,48 @@
+miniJson 1 : {
+ "kind": "youtube#searchListResponse",
+ "etag": "\"Wu2llbfqCdxIVjGbVPm2DslKPCA/nVGo7zn_Qcop1frvWZDzEZCd4HY\"",
+ "regionCode": "JP",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 5
+ },
+ "items": [
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Wu2llbfqCdxIVjGbVPm2DslKPCA/YmhIAplcVIXelDkTWF4wkFUAxN8\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "3YihMRGGJU4"
+   },
+   "snippet": {
+    "publishedAt": "2018-01-29T06:49:50.000Z",
+    "channelId": "UCBGdwqBtOebIhrtOPzOXj0w",
+    "title": "【モンスターハンターワールド】視聴者参加型ひと狩りやーる【PS4pro】がち芋",
+    "description": "部屋番号は画面左上にあります。 参加してね。 Support the stream: https://streamlabs.com/gatiimo チャンネル登録１8万人を目指して頑張っています。 良けれ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/3YihMRGGJU4/default_live.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/3YihMRGGJU4/mqdefault_live.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/3YihMRGGJU4/hqdefault_live.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "GatiImo",
+    "liveBroadcastContent": "live"
+   }
+  }
+ ]
+}
+
+UnityEngine.Debug:Log(Object)
+<GetYoutubeAPI>c__Iterator0:MoveNext() (at Assets/GetHttpSample.cs:78)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)

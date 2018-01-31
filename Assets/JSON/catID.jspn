@@ -1,0 +1,24 @@
+miniJson 2 : {
+ "kind": "youtube#videoListResponse",
+ "etag": "\"Wu2llbfqCdxIVjGbVPm2DslKPCA/SMekIt0JwCn1MvPWGGJYF8gicSs\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"Wu2llbfqCdxIVjGbVPm2DslKPCA/dnFvq4LNVm8nf-B2cBy8Vqf_HF0\"",
+   "id": "3YihMRGGJU4",
+   "liveStreamingDetails": {
+    "actualStartTime": "2018-01-29T06:50:04.000Z",
+    "concurrentViewers": "3448",
+    "activeLiveChatId": "EiEKGFVDQkdkd3FCdE9lYklocnRPUHpPWGowdxIFL2xpdmU"
+   }
+  }
+ ]
+}
+
+UnityEngine.Debug:Log(Object)
+<GetYoutubeAPI>c__Iterator0:MoveNext() (at Assets/GetHttpSample.cs:95)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)

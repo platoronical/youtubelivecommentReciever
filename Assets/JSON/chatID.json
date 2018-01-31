@@ -1,0 +1,20 @@
+{
+ "kind": "youtube#videoListResponse",
+ "etag": "\"Wu2llbfqCdxIVjGbVPm2DslKPCA/UC5ahUMkgiQ_ti-TfOMjHKnNwjc\"",
+ "pageInfo": {
+  "totalResults": 1,
+  "resultsPerPage": 1
+ },
+ "items": [
+  {
+   "kind": "youtube#video",
+   "etag": "\"Wu2llbfqCdxIVjGbVPm2DslKPCA/Z7_oyg46s__D48uzDhhBt5l6N5I\"",
+   "id": "3YihMRGGJU4",
+   "liveStreamingDetails": {
+    "actualStartTime": "2018-01-29T06:50:04.000Z",
+    "concurrentViewers": "3555",
+    "activeLiveChatId": "EiEKGFVDQkdkd3FCdE9lYklocnRPUHpPWGowdxIFL2xpdmU"
+   }
+  }
+ ]
+}

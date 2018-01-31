@@ -1,0 +1,380 @@
+{
+ "kind": "youtube#liveChatMessageListResponse",
+ "etag": "\"Wu2llbfqCdxIVjGbVPm2DslKPCA/10dQ4hHmmPCpS-UryhWkMn9pb0M\"",
+ "nextPageToken": "GLTG_8ai_dgCIKvAnMui_dgC",
+ "pollingIntervalMillis": 5916,
+ "pageInfo": {
+  "totalResults": 75,
+  "resultsPerPage": 75
+ },
+ "items": [
+  {
+   "kind": "youtube#liveChatMessage",
+   "etag": "\"Wu2llbfqCdxIVjGbVPm2DslKPCA/IA4UkUjjM40T8jrzmjTYYxb0WK4\"",
+   "id": "LCC.CiMSIQoYVUNCR2R3cUJ0T2ViSWhydE9Qek9YajB3EgUvbGl2ZRJFChpDSmFhaUxpaF9kZ0NGWkMtd1FvZGQyWVA5dxInQ0t1WnVhLWhfZGdDRlV3NEtnb2RCaThOWFExNTE3MjMxOTQyMjkx",
+   "snippet": {
+    "type": "textMessageEvent",
+    "liveChatId": "EiEKGFVDQkdkd3FCdE9lYklocnRPUHpPWGowdxIFL2xpdmU",
+    "authorChannelId": "UCCC5FrXMyijI8XwFPpcnSow",
+    "publishedAt": "2018-01-29T13:19:03.060Z",
+    "hasDisplayContent": true,
+    "displayMessage": "一狩り行こうぜ！",
+    "textMessageDetails": {
+     "messageText": "一狩り行こうぜ！"
+    }
+   },
+   "authorDetails": {
+    "channelId": "UCCC5FrXMyijI8XwFPpcnSow",
+    "channelUrl": "http://www.youtube.com/channel/UCCC5FrXMyijI8XwFPpcnSow",
+    "displayName": "captain chicken",
+    "profileImageUrl": "https://yt3.ggpht.com/-L9bdP3-29gY/AAAAAAAAAAI/AAAAAAAAAAA/y_9ANfYMO4w/s88-c-k-no-mo-rj-c0xffffff/photo.jpg",
+    "isVerified": false,
+    "isChatOwner": false,
+    "isChatSponsor": false,
+    "isChatModerator": false
+   }
+  },
+  {
+   "kind": "youtube#liveChatMessage",
+   "etag": "\"Wu2llbfqCdxIVjGbVPm2DslKPCA/5Bh7BOXzaWtf8mkFcXfVuGR16WM\"",
+   "id": "LCC.CiMSIQoYVUNCR2R3cUJ0T2ViSWhydE9Qek9YajB3EgUvbGl2ZRI6ChpDTWV6MUxpaF9kZ0NGU2JUd1FvZFJBVUMzdxIcQ0tPSzlyMmdfZGdDRlFkU1dBb2Q3RVVETEEtNQ",
+   "snippet": {
+    "type": "textMessageEvent",
+    "liveChatId": "EiEKGFVDQkdkd3FCdE9lYklocnRPUHpPWGowdxIFL2xpdmU",
+    "authorChannelId": "UCJODGu-jorOBhNS38gWiUDA",
+    "publishedAt": "2018-01-29T13:19:04.309Z",
+    "hasDisplayContent": true,
+    "displayMessage": "おとも重そう",
+    "textMessageDetails": {
+     "messageText": "おとも重そう"
+    }
+   },
+   "authorDetails": {
+    "channelId": "UCJODGu-jorOBhNS38gWiUDA",
+    "channelUrl": "http://www.youtube.com/channel/UCJODGu-jorOBhNS38gWiUDA",
+    "displayName": "リーガン YouTube",
+    "profileImageUrl": "https://yt3.ggpht.com/-wkQSbgUPU1Y/AAAAAAAAAAI/AAAAAAAAAAA/u1H3jIFy4qA/s88-c-k-no-mo-rj-c0xffffff/photo.jpg",
+    "isVerified": false,
+    "isChatOwner": false,
+    "isChatSponsor": false,
+    "isChatModerator": false
+   }
+  },
+  {
+   "kind": "youtube#liveChatMessage",
+   "etag": "\"Wu2llbfqCdxIVjGbVPm2DslKPCA/NUM4FQ4oyP6vpGn7ZJxYnFX9NrY\"",
+   "id": "LCC.CiMSIQoYVUNCR2R3cUJ0T2ViSWhydE9Qek9YajB3EgUvbGl2ZRI6ChpDTTdtbzdxaF9kZ0NGY3pVd1FvZFlqUUFtdxIcQ0l1VnY4dWdfZGdDRmNGMEtnb2R2SFFIQ3ctNg",
+   "snippet": {
+    "type": "textMessageEvent",
+    "liveChatId": "EiEKGFVDQkdkd3FCdE9lYklocnRPUHpPWGowdxIFL2xpdmU",
+    "authorChannelId": "UCcPSWsnRjbCUnxnHtlsieDQ",
+    "publishedAt": "2018-01-29T13:19:07.707Z",
+    "hasDisplayContent": true,
+    "displayMessage": "リスナーに吸い取られてる説ある",
+    "textMessageDetails": {
+     "messageText": "リスナーに吸い取られてる説ある"
+    }
+   },
+   "authorDetails": {
+    "channelId": "UCcPSWsnRjbCUnxnHtlsieDQ",
+    "channelUrl": "http://www.youtube.com/channel/UCcPSWsnRjbCUnxnHtlsieDQ",
+    "displayName": "たつき",
+    "profileImageUrl": "https://yt3.ggpht.com/-CCWoS-5r0TM/AAAAAAAAAAI/AAAAAAAAAAA/jF8uvTpYJNw/s88-c-k-no-mo-rj-c0xffffff/photo.jpg",
+    "isVerified": false,
+    "isChatOwner": false,
+    "isChatSponsor": false,
+    "isChatModerator": false
+   }
+  },
+  {
+   "kind": "youtube#liveChatMessage",
+   "etag": "\"Wu2llbfqCdxIVjGbVPm2DslKPCA/6QXAhjU-ZOyaFGEVfXr6k9XgdHU\"",
+   "id": "LCC.CiMSIQoYVUNCR2R3cUJ0T2ViSWhydE9Qek9YajB3EgUvbGl2ZRI7ChpDTGpOaUx5aF9kZ0NGWXlWd1FvZFBFSUxGZxIdQ1AtZDFxV2NfZGdDRmNHbVdBb2RHdGtMMnctMjc",
+   "snippet": {
+    "type": "textMessageEvent",
+    "liveChatId": "EiEKGFVDQkdkd3FCdE9lYklocnRPUHpPWGowdxIFL2xpdmU",
+    "authorChannelId": "UCeq3d7R_cJXwiwAl0GTCJ3g",
+    "publishedAt": "2018-01-29T13:19:11.455Z",
+    "hasDisplayContent": true,
+    "displayMessage": "ガチさんココロ折れ初めてる説",
+    "textMessageDetails": {
+     "messageText": "ガチさんココロ折れ初めてる説"
+    }
+   },
+   "authorDetails": {
+    "channelId": "UCeq3d7R_cJXwiwAl0GTCJ3g",
+    "channelUrl": "http://www.youtube.com/channel/UCeq3d7R_cJXwiwAl0GTCJ3g",
+    "displayName": "ガブソンの実況チャンネル",
+    "profileImageUrl": "https://yt3.ggpht.com/-c19TFQZL7ng/AAAAAAAAAAI/AAAAAAAAAAA/dKo0c3tKcBA/s88-c-k-no-mo-rj-c0xffffff/photo.jpg",
+    "isVerified": false,
+    "isChatOwner": false,
+    "isChatSponsor": false,
+    "isChatModerator": false
+   }
+  },
+  {
+   "kind": "youtube#liveChatMessage",
+   "etag": "\"Wu2llbfqCdxIVjGbVPm2DslKPCA/hOIe7OXOrHL-RlhZH3uIQ95dRfU\"",
+   "id": "LCC.CiMSIQoYVUNCR2R3cUJ0T2ViSWhydE9Qek9YajB3EgUvbGl2ZRI6ChpDSmZEbDd5aF9kZ0NGZGZUd1FvZDd2Z09GdxIcQ05XS3hfQ2dfZGdDRlVZdUtnb2RLOUFBQ0EtMQ",
+   "snippet": {
+    "type": "textMessageEvent",
+    "liveChatId": "EiEKGFVDQkdkd3FCdE9lYklocnRPUHpPWGowdxIFL2xpdmU",
+    "authorChannelId": "UCxzza59BIzfwpI84HHA5cHQ",
+    "publishedAt": "2018-01-29T13:19:11.700Z",
+    "hasDisplayContent": true,
+    "displayMessage": "さっきたまたまみた実況で一発で宝玉でてました笑",
+    "textMessageDetails": {
+     "messageText": "さっきたまたまみた実況で一発で宝玉でてました笑"
+    }
+   },
+   "authorDetails": {
+    "channelId": "UCxzza59BIzfwpI84HHA5cHQ",
+    "channelUrl": "http://www.youtube.com/channel/UCxzza59BIzfwpI84HHA5cHQ",
+    "displayName": "、むぎの",
+    "profileImageUrl": "https://yt3.ggpht.com/-SyMlmxaFq7g/AAAAAAAAAAI/AAAAAAAAAAA/1AsCbdUareQ/s88-c-k-no-mo-rj-c0xffffff/photo.jpg",
+    "isVerified": false,
+    "isChatOwner": false,
+    "isChatSponsor": false,
+    "isChatModerator": false
+   }
+  },
+  {
+   "kind": "youtube#liveChatMessage",
+   "etag": "\"Wu2llbfqCdxIVjGbVPm2DslKPCA/Jsc3YQq-GaeQO2ezzUOYUO5KQKY\"",
+   "id": "LCC.CiMSIQoYVUNCR2R3cUJ0T2ViSWhydE9Qek9YajB3EgUvbGl2ZRI6ChpDTzNoeHJ5aF9kZ0NGWktEd1FvZDJUY0c5dxIcQ05hMjc5MmRfZGdDRlpJVktnb2R0STBLWWctMQ",
+   "snippet": {
+    "type": "textMessageEvent",
+    "liveChatId": "EiEKGFVDQkdkd3FCdE9lYklocnRPUHpPWGowdxIFL2xpdmU",
+    "authorChannelId": "UCcbR2Fh-JJ8v4BeVAfy4fDw",
+    "publishedAt": "2018-01-29T13:19:12.474Z",
+    "hasDisplayContent": true,
+    "displayMessage": "いったれイモギガンテ！",
+    "textMessageDetails": {
+     "messageText": "いったれイモギガンテ！"
+    }
+   },
+   "authorDetails": {
+    "channelId": "UCcbR2Fh-JJ8v4BeVAfy4fDw",
+    "channelUrl": "http://www.youtube.com/channel/UCcbR2Fh-JJ8v4BeVAfy4fDw",
+    "displayName": "ryota G",
+    "profileImageUrl": "https://yt3.ggpht.com/-pAVVgjQpqyM/AAAAAAAAAAI/AAAAAAAAAAA/c0M_rmBaqN8/s88-c-k-no-mo-rj-c0xffffff/photo.jpg",
+    "isVerified": false,
+    "isChatOwner": false,
+    "isChatSponsor": false,
+    "isChatModerator": false
+   }
+  },
+  {
+   "kind": "youtube#liveChatMessage",
+   "etag": "\"Wu2llbfqCdxIVjGbVPm2DslKPCA/0xTH5z6FbQigbomWSg-aRjIDPs8\"",
+   "id": "LCC.CiMSIQoYVUNCR2R3cUJ0T2ViSWhydE9Qek9YajB3EgUvbGl2ZRI5ChpDTDZkNkwtaF9kZ0NGUk9od1FvZHBlTU05ZxIbQ05XRS1xNk1fZGdDRmMyZFdBb2RhUE1QRkE1",
+   "snippet": {
+    "type": "textMessageEvent",
+    "liveChatId": "EiEKGFVDQkdkd3FCdE9lYklocnRPUHpPWGowdxIFL2xpdmU",
+    "authorChannelId": "UCcl57k5Sa_UT6fpG37nSKdw",
+    "publishedAt": "2018-01-29T13:19:19.314Z",
+    "hasDisplayContent": true,
+    "displayMessage": "地形ごと傾けろ！",
+    "textMessageDetails": {
+     "messageText": "地形ごと傾けろ！"
+    }
+   },
+   "authorDetails": {
+    "channelId": "UCcl57k5Sa_UT6fpG37nSKdw",
+    "channelUrl": "http://www.youtube.com/channel/UCcl57k5Sa_UT6fpG37nSKdw",
+    "displayName": "セイキソ",
+    "profileImageUrl": "https://yt3.ggpht.com/-Im7lunQziBg/AAAAAAAAAAI/AAAAAAAAAAA/kwd1cnAKN5Y/s88-c-k-no-mo-rj-c0xffffff/photo.jpg",
+    "isVerified": false,
+    "isChatOwner": false,
+    "isChatSponsor": false,
+    "isChatModerator": false
+   }
+  },
+  {
+   "kind": "youtube#liveChatMessage",
+   "etag": "\"Wu2llbfqCdxIVjGbVPm2DslKPCA/1tvxx5MeII516KnsX0ppu3_h1c8\"",
+   "id": "LCC.CiMSIQoYVUNCR2R3cUJ0T2ViSWhydE9Qek9YajB3EgUvbGl2ZRJFChpDUEw3MHNDaF9kZ0NGWlNUd1FvZDg0TUJGdxInQ0t1WnVhLWhfZGdDRlV3NEtnb2RCaThOWFExNTE3MjMxOTYwMzEz",
+   "snippet": {
+    "type": "textMessageEvent",
+    "liveChatId": "EiEKGFVDQkdkd3FCdE9lYklocnRPUHpPWGowdxIFL2xpdmU",
+    "authorChannelId": "UCCC5FrXMyijI8XwFPpcnSow",
+    "publishedAt": "2018-01-29T13:19:21.062Z",
+    "hasDisplayContent": true,
+    "displayMessage": "ボルボロス倒せない",
+    "textMessageDetails": {
+     "messageText": "ボルボロス倒せない"
+    }
+   },
+   "authorDetails": {
+    "channelId": "UCCC5FrXMyijI8XwFPpcnSow",
+    "channelUrl": "http://www.youtube.com/channel/UCCC5FrXMyijI8XwFPpcnSow",
+    "displayName": "captain chicken",
+    "profileImageUrl": "https://yt3.ggpht.com/-L9bdP3-29gY/AAAAAAAAAAI/AAAAAAAAAAA/y_9ANfYMO4w/s88-c-k-no-mo-rj-c0xffffff/photo.jpg",
+    "isVerified": false,
+    "isChatOwner": false,
+    "isChatSponsor": false,
+    "isChatModerator": false
+   }
+  },
+  {
+   "kind": "youtube#liveChatMessage",
+   "etag": "\"Wu2llbfqCdxIVjGbVPm2DslKPCA/rldTwQYE4TGDgywCnNELviBGQSo\"",
+   "id": "LCC.CiMSIQoYVUNCR2R3cUJ0T2ViSWhydE9Qek9YajB3EgUvbGl2ZRJFChpDUGJnX01DaF9kZ0NGYzdSd1FvZGF5b0hJQRInQ1BIX3lNLWdfZGdDRllZNEtnb2RzSzROb1ExNTE3MjMxOTYwODc3",
+   "snippet": {
+    "type": "textMessageEvent",
+    "liveChatId": "EiEKGFVDQkdkd3FCdE9lYklocnRPUHpPWGowdxIFL2xpdmU",
+    "authorChannelId": "UCKxRqMcz1P9QfTJG4skOyGg",
+    "publishedAt": "2018-01-29T13:19:21.747Z",
+    "hasDisplayContent": true,
+    "displayMessage": "５分で回せば３時間以下だしヨユーヨユー",
+    "textMessageDetails": {
+     "messageText": "５分で回せば３時間以下だしヨユーヨユー"
+    }
+   },
+   "authorDetails": {
+    "channelId": "UCKxRqMcz1P9QfTJG4skOyGg",
+    "channelUrl": "http://www.youtube.com/channel/UCKxRqMcz1P9QfTJG4skOyGg",
+    "displayName": "鈍器のような もの",
+    "profileImageUrl": "https://yt3.ggpht.com/-PPwQoO130LA/AAAAAAAAAAI/AAAAAAAAAAA/Fqpg51UmIbA/s88-c-k-no-mo-rj-c0xffffff/photo.jpg",
+    "isVerified": false,
+    "isChatOwner": false,
+    "isChatSponsor": false,
+    "isChatModerator": false
+   }
+  },
+  {
+   "kind": "youtube#liveChatMessage",
+   "etag": "\"Wu2llbfqCdxIVjGbVPm2DslKPCA/v6XsAkAeV4-qCDW1oePPQjGwvCM\"",
+   "id": "LCC.CiMSIQoYVUNCR2R3cUJ0T2ViSWhydE9Qek9YajB3EgUvbGl2ZRI5ChpDT090azhHaF9kZ0NGUW5Jd1FvZHNnWUowQRIbQ01uZ2pOS2RfZGdDRlVaMUtnb2RyN2tHalEw",
+   "snippet": {
+    "type": "textMessageEvent",
+    "liveChatId": "EiEKGFVDQkdkd3FCdE9lYklocnRPUHpPWGowdxIFL2xpdmU",
+    "authorChannelId": "UCU3oCj2l_-OCE1w3T2IoUjw",
+    "publishedAt": "2018-01-29T13:19:22.117Z",
+    "hasDisplayContent": true,
+    "displayMessage": "がちさんおやすみなさい！",
+    "textMessageDetails": {
+     "messageText": "がちさんおやすみなさい！"
+    }
+   },
+   "authorDetails": {
+    "channelId": "UCU3oCj2l_-OCE1w3T2IoUjw",
+    "channelUrl": "http://www.youtube.com/channel/UCU3oCj2l_-OCE1w3T2IoUjw",
+    "displayName": "アルマジロ",
+    "profileImageUrl": "https://yt3.ggpht.com/-pG_k7Yol0fM/AAAAAAAAAAI/AAAAAAAAAAA/31J3GsuK_pg/s88-c-k-no-mo-rj-c0xffffff/photo.jpg",
+    "isVerified": false,
+    "isChatOwner": false,
+    "isChatSponsor": false,
+    "isChatModerator": false
+   }
+  },
+  {
+   "kind": "youtube#liveChatMessage",
+   "etag": "\"Wu2llbfqCdxIVjGbVPm2DslKPCA/LDlvwkpudZGWuk-_JPEeQTrbDkA\"",
+   "id": "LCC.CiMSIQoYVUNCR2R3cUJ0T2ViSWhydE9Qek9YajB3EgUvbGl2ZRI6ChpDTjJfMU1LaF9kZ0NGUmEtd1FvZElUNE56dxIcQ01qYXFzU2VfZGdDRlJoUldBb2RYQXNNVlEtMQ",
+   "snippet": {
+    "type": "textMessageEvent",
+    "liveChatId": "EiEKGFVDQkdkd3FCdE9lYklocnRPUHpPWGowdxIFL2xpdmU",
+    "authorChannelId": "UCKcsvBVARktBDaR-hr_EYpA",
+    "publishedAt": "2018-01-29T13:19:25.282Z",
+    "hasDisplayContent": true,
+    "displayMessage": "ネルギガンテの全武器作りましょう",
+    "textMessageDetails": {
+     "messageText": "ネルギガンテの全武器作りましょう"
+    }
+   },
+   "authorDetails": {
+    "channelId": "UCKcsvBVARktBDaR-hr_EYpA",
+    "channelUrl": "http://www.youtube.com/channel/UCKcsvBVARktBDaR-hr_EYpA",
+    "displayName": "ひーさん",
+    "profileImageUrl": "https://yt3.ggpht.com/-RP0TYlHGaqo/AAAAAAAAAAI/AAAAAAAAAAA/PnNTOyyDPLc/s88-c-k-no-mo-rj-c0xffffff/photo.jpg",
+    "isVerified": false,
+    "isChatOwner": false,
+    "isChatSponsor": false,
+    "isChatModerator": false
+   }
+  },
+  {
+   "kind": "youtube#liveChatMessage",
+   "etag": "\"Wu2llbfqCdxIVjGbVPm2DslKPCA/odTit6zrIs8zaQAhGzSGhOoX4Mo\"",
+   "id": "LCC.CiMSIQoYVUNCR2R3cUJ0T2ViSWhydE9Qek9YajB3EgUvbGl2ZRI6ChpDSmpEb2NPaF9kZ0NGWktEd1FvZFRmQUdQURIcQ1B5ZjM5U2RfZGdDRlFSNktnb2RhZm9KLUEtNA",
+   "snippet": {
+    "type": "textMessageEvent",
+    "liveChatId": "EiEKGFVDQkdkd3FCdE9lYklocnRPUHpPWGowdxIFL2xpdmU",
+    "authorChannelId": "UCPqj9io-sdURWAC7I1ypLkQ",
+    "publishedAt": "2018-01-29T13:19:26.544Z",
+    "hasDisplayContent": true,
+    "displayMessage": "がちさんの口笛BGMと同じでネルギガンテの時の曲が離れなくなりそう。",
+    "textMessageDetails": {
+     "messageText": "がちさんの口笛BGMと同じでネルギガンテの時の曲が離れなくなりそう。"
+    }
+   },
+   "authorDetails": {
+    "channelId": "UCPqj9io-sdURWAC7I1ypLkQ",
+    "channelUrl": "http://www.youtube.com/channel/UCPqj9io-sdURWAC7I1ypLkQ",
+    "displayName": "ころりんこむすび",
+    "profileImageUrl": "https://yt3.ggpht.com/-8W4-DZNhxrA/AAAAAAAAAAI/AAAAAAAAAAA/hYQr9BXolvs/s88-c-k-no-mo-rj-c0xffffff/photo.jpg",
+    "isVerified": false,
+    "isChatOwner": false,
+    "isChatSponsor": false,
+    "isChatModerator": false
+   }
+  },
+  {
+   "kind": "youtube#liveChatMessage",
+   "etag": "\"Wu2llbfqCdxIVjGbVPm2DslKPCA/V3GWv1Tw9JGcDfTzyZb4n-TqAmA\"",
+   "id": "LCC.CiMSIQoYVUNCR2R3cUJ0T2ViSWhydE9Qek9YajB3EgUvbGl2ZRI6ChpDT2E3aXNTaF9kZ0NGU1Rid1FvZE43Z0RuZxIcQ05HZHhMNmhfZGdDRmNRc0tnb2RFWk1CVXctMA",
+   "snippet": {
+    "type": "textMessageEvent",
+    "liveChatId": "EiEKGFVDQkdkd3FCdE9lYklocnRPUHpPWGowdxIFL2xpdmU",
+    "authorChannelId": "UCF9Lf7mT6cpfnPb8FD1A56Q",
+    "publishedAt": "2018-01-29T13:19:28.263Z",
+    "hasDisplayContent": true,
+    "displayMessage": "尻尾から二回連続でたことあるからね。",
+    "textMessageDetails": {
+     "messageText": "尻尾から二回連続でたことあるからね。"
+    }
+   },
+   "authorDetails": {
+    "channelId": "UCF9Lf7mT6cpfnPb8FD1A56Q",
+    "channelUrl": "http://www.youtube.com/channel/UCF9Lf7mT6cpfnPb8FD1A56Q",
+    "displayName": "山田敦也",
+    "profileImageUrl": "https://yt3.ggpht.com/-ueO35vqVKPQ/AAAAAAAAAAI/AAAAAAAAAAA/ne5g5XbaXQ8/s88-c-k-no-mo-rj-c0xffffff/photo.jpg",
+    "isVerified": false,
+    "isChatOwner": false,
+    "isChatSponsor": false,
+    "isChatModerator": false
+   }
+  },
+  {
+   "kind": "youtube#liveChatMessage",
+   "etag": "\"Wu2llbfqCdxIVjGbVPm2DslKPCA/qQ_-PsegKy_QFBM5J-cjXDdTUDM\"",
+   "id": "LCC.CiMSIQoYVUNCR2R3cUJ0T2ViSWhydE9Qek9YajB3EgUvbGl2ZRI7ChpDSnlqaDhXaF9kZ0NGUS1jd1FvZDVnd08zQRIdQ056bXNzZWVfZGdDRlVONktnb2RLRDhNTXctMTM",
+   "snippet": {
+    "type": "textMessageEvent",
+    "liveChatId": "EiEKGFVDQkdkd3FCdE9lYklocnRPUHpPWGowdxIFL2xpdmU",
+    "authorChannelId": "UCuwb_Wr5zYPfQJ8sDBc5CFQ",
+    "publishedAt": "2018-01-29T13:19:30.308Z",
+    "hasDisplayContent": true,
+    "displayMessage": "ネルギガンテと同居すれば？",
+    "textMessageDetails": {
+     "messageText": "ネルギガンテと同居すれば？"
+    }
+   },
+   "authorDetails": {
+    "channelId": "UCuwb_Wr5zYPfQJ8sDBc5CFQ",
+    "channelUrl": "http://www.youtube.com/channel/UCuwb_Wr5zYPfQJ8sDBc5CFQ",
+    "displayName": "山田哲人",
+    "profileImageUrl": "https://yt3.ggpht.com/-2nMW11UCAME/AAAAAAAAAAI/AAAAAAAAAAA/4kp3bQJwd3c/s88-c-k-no-mo-rj-c0xffffff/photo.jpg",
+    "isVerified": false,
+    "isChatOwner": false,
+    "isChatSponsor": false,
+    "isChatModerator": false
+   }
+  },
+  {
+   "kind": "youtube#liveChatMessage",
+   "etag": "\"Wu2llbfqCdxIVjGbVPm2DslKPCA/opm9eIsZUzjOpT3a1PmNwXKStOA\"",
+   "id": "LCC.CiMSIQoYVUNCR2R3cUJ0T2ViSWhydE9Qek9YajB3EgUvbGl2ZRI7ChpDTGZVck1haF9kZ0NGUkxod1FvZFppQUNPURIdQ09yajVjbWVfZGdDRmNWWllBb2R2UVFNZVEtMTA",
+   "snippet": {
+    "type": "tex<message truncated>
